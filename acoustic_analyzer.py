@@ -1,6 +1,6 @@
 """
 acoustic_analyzer.py
-Simple beginner-friendly acoustic analyzer:
+Acoustic analyser:
  - records audio for 3 seconds
  - applies a window
  - computes FFT
